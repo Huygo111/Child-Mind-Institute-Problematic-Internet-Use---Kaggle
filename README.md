@@ -2,11 +2,6 @@
 Cuộc thi: Child Mind Institute — Problematic Internet Use
 Relating Physical Activity to Problematic Internet Use
 
-## Thành viên nhóm 4 lớp 2425I_INT3405E_55
-- Trần Ngọc Huy     (ID: 22028049)
-- Nguyễn Duy Khánh  (ID: 22028030)
-- Nguyễn Duy Hưng   (ID: 22028264)
-
 ## Mục tiêu
 Mục tiêu là phát triển một mô hình dự đoán để ước tính mức độ sử dụng Internet có vấn đề ở trẻ em và thanh thiếu niên dựa trên dữ liệu về hoạt động thể chất và thể lực của chúng. Điều này nhằm mục đích phát hiện sớm các dấu hiệu của việc sử dụng Internet không lành mạnh và cho phép can thiệp kịp thời để thúc đẩy thói quen kỹ thuật số lành mạnh hơn.
 
